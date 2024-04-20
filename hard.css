@@ -141,7 +141,7 @@ body {
 }
 
 .card .front {
-    color: aliceblue;
+    color: rgb(157, 72, 255);
     background-color: rgba(157, 72, 255, 0.651);
     display: flex;
     justify-content: center;
