@@ -1,4 +1,4 @@
-#juego de tarjeta de memoria
+# juego de tarjeta de memoria
 esta es una versión del juego hecha para el curso de programación hipermedia
 
 
