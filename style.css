@@ -122,7 +122,7 @@ body {
 }
 
 .btn {
-    background-color: rgb(252, 168, 162);
+    background-color: rgb(192, 164, 245);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -139,13 +139,13 @@ body {
 #level1{
 width: 120px;
 height: 50px;
-border:1px solid rgb(50, 119, 248);
+border:1px solid rgb(54, 1, 114);
 border-radius: 10px;
 margin: 0px 10px;
 display: flex;
 justify-content: center;
 align-items: center;
-color: rgba(50, 119, 248, 0.651);
+color: rgba(54, 1, 114, 0.699);
 font-size: 1.4rem;
 font-weight: 600;
 cursor: pointer;
