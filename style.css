@@ -122,7 +122,7 @@ body {
 }
 
 .btn {
-    background-color: antiquewhite;
+    background-color: rgb(252, 168, 162);
     display: flex;
     justify-content: center;
     align-items: center;
