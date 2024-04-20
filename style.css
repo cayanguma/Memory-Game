@@ -7,7 +7,7 @@ body {
     width: 100vw;
     height: 100vh;
     box-sizing: border-box;
-    background-image: url(https://www.creativefabrica.com/wp-content/uploads/2022/06/23/Wood-Background-1687-Graphics-32845402-1-1-580x386.jpg);
+    background-image: url("https://www.creativefabrica.com/wp-content/uploads/2022/06/23/Wood-Background-1687-Graphics-32845402-1-1-580x386.jpg");
     display: flex;
 }
 .board{
